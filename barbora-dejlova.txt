@@ -9,7 +9,7 @@ provides additional information about an HTML element.
     4. What is the h1 tag used for? How many times should I use it on a page?
 tag for header. The biggest letters. We should use it once
     5. Name two tags that have required attributes
-href, class.    
+href, class   
     6. What do we put in the head of our HTML document? 
 head tag, then title.
     7. What is an id? 
